@@ -31,3 +31,4 @@ MyInfo = {
 }
 
 ```
+Currently learning Flutter and Qt for app development
